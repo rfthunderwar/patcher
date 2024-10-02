@@ -331,5 +331,6 @@ SpriteImage\ads\available.png 55928f71c0917b93e38ad90f832b43075f4c33a1
 SpriteImage\ads\init.ini 7552c71ffb45973cd92a65043e5f8f6374a11a1c
 SpriteImage\common\hvn.spr 57a8875d6f899e36ea1e7c7dbea82d5d584cb60d
 SpriteImage\common\item.spr 1530cd622e38efccdcb09639c266b77f74f22266
+SpriteImage\en-gb\common.spr ae55b7338906dbe6be732cc27659c78eb245ab07
 SpriteImage\en-gb\item.spr 1530cd622e38efccdcb09639c266b77f74f22266
 System\lucon.ttf 3a21f868544500c690f8ac04dc6b05a7dfe94637
