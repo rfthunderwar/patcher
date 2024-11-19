@@ -654,7 +654,7 @@ Map\Platform01\Sky\Platform01Sky.mtf b4f9d3404e66f05fb260ca73ff0a0b6f0c61fdc7
 Map\Platform01\Sky\Platform01Sky.r3t b611f495991684539c6a3bd83fc749116e4ef9ce
 Map\Platform01\Sky2\Platform01sky2.mtf d680b37e07098aa76590cc161da4b9594b73a26d
 Map\Platform01\Sky2\Platform01sky2.r3t 319316af995717797054da4f60dffc23ca168596
-RF_Online.bin 37dc422fb92a8ce4611381786fec6e69e2b0e7a4
+RF_Online.bin d6c89d415ebec15622c86d2ef445751c74940c69
 Snd\Bgm\ccrinc.AVI 0e356ba505631fbf715758bed27d503f8b260e3a
 Snd\Bgm\CCRINC.wmv 9b99593353a610c4bee0d6a94a01a3296080c0fb
 Snd\Bgm\Prologue.avi 688934845f22049cb14668832efa33d45013b6b9
@@ -667,6 +667,7 @@ SpriteImage\ads\1.png 302c3ccf5bd2fd0e0f37b334b71144bf77c33144
 SpriteImage\ads\2.png d1ab77c26a0b9ad0474740208a4aa42321fe2747
 SpriteImage\ads\init.ini 59c82be6b326a8289ab35689ee5d0f3c5fb8ced0
 SpriteImage\common\battlepass.spr f336c82e925a17d7bbfed46088ba3014ec464e63
+SpriteImage\common\guildskill.spr 163942862e1334fb0b4bc04d1e0a42c5a510e8d8
 SpriteImage\common\hvn.spr e2049d44e3e2c0ef09892185c82cdd31aaaa4aa4
 SpriteImage\common\item.spr 2835757a6ed0975be54e1d78e68fba8894ed55b8
 SpriteImage\en-gb\common.spr ae55b7338906dbe6be732cc27659c78eb245ab07
